@@ -1,0 +1,3 @@
+OpenFrameworks for Computer Graphics II
+
+编译该程序将需要安装VS2017并根据openFrameworks的安装指南进行安装。为了便于查看成果，在几个zip压缩包中有视频演示以说明代码功能和展示成果。

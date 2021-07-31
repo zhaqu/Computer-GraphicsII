@@ -1,0 +1,15 @@
+﻿  ofApp.cpp
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  P1.vcxproj -> E:\repo\P1\bin\P1_debug.exe
+  
+  	                   2	E:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *多余文件   		 3385856	E:\repo\P1\bin\assimp32.dll
+  	  *多余文件   		 4161536	E:\repo\P1\bin\assimp64.dll
+  	  *多余文件   		 6018560	E:\repo\P1\bin\FreeImage.dll
+  
+  	                   1	E:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *多余文件   		 3385856	E:\repo\P1\bin\assimp32.dll
+  	  *多余文件   		 4161536	E:\repo\P1\bin\assimp64.dll
+  	  *多余文件   		 1266176	E:\repo\P1\bin\fmodex.dll
+  	  *多余文件   		 1312768	E:\repo\P1\bin\fmodexL.dll

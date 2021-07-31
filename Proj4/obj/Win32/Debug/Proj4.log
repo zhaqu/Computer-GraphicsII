@@ -1,0 +1,72 @@
+﻿  Cylinder.cpp
+  main.cpp
+  ofApp.cpp
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\main.cpp)
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\ofApp.cpp)
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec3f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\Cylinder.cpp)
+e:\of_v0.11.0_vs2017_release\libs\openframeworks\math\ofvec2f.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 src\Cylinder.cpp)
+e:\repo\proj4\src\ofapp.cpp(23): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(28): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(30): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(32): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(39): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(41): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(43): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(45): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  e:\windows kits\10\include\10.0.17763.0\ucrt\string.h(440): note: 参见“strtok”的声明
+e:\repo\proj4\src\ofapp.cpp(20): warning C4101: “str”: 未引用的局部变量
+e:\repo\proj4\src\ofapp.cpp(68): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(165): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(172): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(189): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(245): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(270): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(322): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(341): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(389): warning C4018: “<”: 有符号/无符号不匹配
+e:\repo\proj4\src\ofapp.cpp(391): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(393): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(402): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(405): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(408): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(411): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(414): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(417): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(420): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(423): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(426): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(446): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(448): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(450): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(452): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(482): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(484): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(486): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(488): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(503): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(557): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(638): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+e:\repo\proj4\src\ofapp.cpp(643): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  Proj4.vcxproj -> E:\repo\Proj4\bin\Proj4_debug.exe
+  
+  	                   2	E:\of_v0.11.0_vs2017_release\libs\fmodex\lib\vs\Win32\
+  	  *多余文件   		 6018560	E:\repo\Proj4\bin\FreeImage.dll
+  
+  	                   1	E:\of_v0.11.0_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *多余文件   		 1266176	E:\repo\Proj4\bin\fmodex.dll
+  	  *多余文件   		 1312768	E:\repo\Proj4\bin\fmodexL.dll
